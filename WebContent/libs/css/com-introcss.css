@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+body{
+	background-color: #E8E8E8;
+}
+.panel-body{
+	padding:30px;
+}
+.panel-body #intro{
+	font-size:18px;
+}
+.intro .panel-heading{
+	background-image: url("/company/img/7.jpg");
+	color:white;
+}
+#product{
+	float:left;
+}
+.media-left #media{
+	width:100px;
+	height:100px;
+}

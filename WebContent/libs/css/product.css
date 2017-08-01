@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.media{
+	background-color: #feede7;
+	border:2px #e9e9e9 solid;
+	border-radius:20px;
+	padding:15px;
+}
+
+.media-left img{
+	width:100px;
+	height:100px;
+}
+.media-body span{
+	font-size: 20px;
+}
+.container{
+	padding-bottom:20px;
+}

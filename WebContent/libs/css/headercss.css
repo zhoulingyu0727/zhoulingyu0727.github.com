@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+header .container{
+	padding-top:50px;
+}
+header .container h2{
+	color:white;
+}
+header p{
+	padding-top:30px;
+	padding-right:30px;
+	color:orange;
+	float:right;
+}
+.narbar ul{
+	text-align:center;
+	list-style-type:none;
+}
+.narbar ul li{
+	display:inline;
+}

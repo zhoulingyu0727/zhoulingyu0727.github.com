@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+body{
+	background-color: #f0f0f0;
+}
+#contact1{
+	padding-top:100px;
+	padding-left:60px;
+}
+#contact2{
+	padding-top:100px;
+	padding-left:50px;
+}
+#contact3{
+	padding-top:100px;
+	padding-left:38px;
+}
+#contact4{
+	padding-top:100px;
+	padding-left:43px;
+}
+
