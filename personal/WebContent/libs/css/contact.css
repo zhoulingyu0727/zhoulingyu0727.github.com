@@ -1,6 +1,6 @@
 @CHARSET "UTF-8";
 body{
-	background-color: #f0f0f0;
+	background-color:#1A0008;
 }
 #contact1{
 	padding-top:100px;
@@ -18,4 +18,19 @@ body{
 	padding-top:100px;
 	padding-left:43px;
 }
-
+.panel{
+	background-image:url('../../img/panel-bg.jpg');
+	background-repeat:round;
+	width:634px;
+	height:507px;
+	margin-left: auto;
+	margin-right: auto;
+    
+}
+#text{
+	margin-top:180px;
+	margin-left:100px;
+}
+img{
+	margin-top:0px;
+}
