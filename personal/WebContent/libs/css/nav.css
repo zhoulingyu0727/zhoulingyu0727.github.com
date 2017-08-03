@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0px;    
+    padding: 0px;
+}
+nav{
+	background-color:#191919;
+	width:100%;
+	height:50px;
+	text-align: center;
+	line-height: 50px;
+	border-radius:5px;
+	margin-bottom: 10px;
+}
+ul li{
+	list-style:none;
+	display: inline;
+    font-size:15px;
+    
+
+}
+li{
+	padding:15px;
+	
+}
+.active{
+	color:white;
+	background-color:black;
+}
+a{
+	text-decoration: none;
+	color: grey;
+}
+a:HOVER {
+	color:white;
+	text-decoration: none;
+}
+.panel{
+	width:600px;
+	height:60px;
+	background-repeat: round;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+}
+.yellow{
+	background-image:url("../../img/yellow.jpg");
+	
+}
+.blue{
+	background-image:url("../../img/blue.jpg");
+}
+.zise{
+	background-image:url("../../img/zise.jpg");
+}
+.red{
+	background-image:url("../../img/red.jpg");
+}
